@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'roboto-condensed';
+					src: url('/prtfl/wp-content/uploads/useanyfont/6087Roboto-Condensed.woff2') format('woff2'),
+						url('/prtfl/wp-content/uploads/useanyfont/6087Roboto-Condensed.woff') format('woff');
+					font-display: auto;
+				}
+
+				.roboto-condensed{font-family: 'roboto-condensed' !important;}
+
+		
